@@ -27,3 +27,15 @@ $ npm install
 ```bash
 $ npm start
 ```
+
+## Login
+
+Login using account below.
+```bash
+$ username:evanwiyendra, password:123456
+```
+
+or create new account with API route below using POST
+```bash
+$ URL/users
+```
