@@ -5,8 +5,8 @@
 $ npm install
 ```
 
-Import SQL Database
-Configure Database at app.module.ts
+- Import SQL Database
+- Configure Database at app.module.ts. Configuration can be seen below
 
 ```bash
  TypeOrmModule.forRoot({
